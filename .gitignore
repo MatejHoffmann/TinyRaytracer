@@ -1,0 +1,9 @@
+# Visual Studio specific files
+.vs/
+
+# Jetbrains specific files
+.idea/
+
+Renderer/Debug
+Renderer/Release
+Renderer/Renderer.vcxproj.user
